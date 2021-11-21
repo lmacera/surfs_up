@@ -12,21 +12,27 @@ From the below dataframe image we can see:
 -	The average temperature for June is about 75 degrees Fahrenheit 
 -	The minimum temperature in June is 64 degrees Fahrenheit
 -	The maximum temperature in June is 85 degrees Fahrenheit
+-
 ![ June_temps.PNG]( https://github.com/lmacera/surfs_up/blob/main/June_temps.PNG )
+
 ### December Temperature Analysis
 From the below dataframe image we can see:
 -	The total number of December temperature data point from which the statistical analysis was created is 1517
 -	The average temperature for December is about 71 degrees Fahrenheit 
 -	The minimum temperature in December is 56 degrees Fahrenheit
 -	The maximum temperature in December is 83 degrees Fahrenheit
+
 ![ December_temps.PNG]( https://github.com/lmacera/surfs_up/blob/main/December_temps.PNG  )
+
 ### June to December Comparison
 From the above dataframes and analysis our team found:
 -	There are more data point available for analysis in June. Though there are only approximately 200 more data points in June this could throw off the analysis when comparing June and December temperatures.
 -	The minimum temperature is lower in December, but maximum temperatures do not change that drastically between June and December
 -	Average temperature is higher in June but does not change drastically from the average temperature in December 
 
-##Summary
+
+## Summary
+
 In summary June and December have similar temperatures and have great potential for a surf and ice cream shop. Further analysis that can be run for this a would be to:
 1.	Run a statistical analysis for all months to make sure the temperature is ideal for the majority of the year.
 2.	Run an analysis on the precipitation rates for each month to ensure the best weather for surfing and ice cream.
